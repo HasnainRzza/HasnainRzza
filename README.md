@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**HasnainRzza/HasnainRzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there!  
+I’m **Hasnain**, a Data Scientist and AI Engineer.
 
-Here are some ideas to get you started:
+I build intelligent, scalable, and human‑centered AI systems.  
+If an idea pops into my head, chances are I’ll experiment, build it, and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My main tech stack**: Python, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, SQL, n8n, LangChain, and TypeScript.  
+**Favorite tools**: VS Code, Jupyter Notebooks, and Postman.
+
+I enjoy working on AI pipelines, machine‑learning models, and automation workflows that solve real‑world problems.
+
+### Fun Facts
+- 🚀 I love exploring new AI tools and frameworks  
+- 📚 I enjoy reading about AI and data‑science trends  
+- 🎯 Hobbies: building AI projects, coding, and experimenting with new tech
