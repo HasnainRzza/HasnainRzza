@@ -7,7 +7,7 @@ I build intelligent, scalable, and human‑centered AI systems.
 If an idea pops into my head, chances are I’ll experiment, build it, and ship it.
 
 **My main tech stack**: Python, PyTorch, TensorFlow, scikit‑learn, Pandas, NumPy, SQL, n8n, LangChain, and TypeScript.  
-**Favorite tools**: VS Code, Jupyter Notebooks, and Postman.
+**Favorite tools**: VS Code, Antigravity, Google Collab and Postman.
 
 I enjoy working on AI pipelines, machine‑learning models, and automation workflows that solve real‑world problems.
 
