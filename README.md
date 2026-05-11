@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hasnain%20Raza&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data Scientist%20%&descAlignY=53&descAlign=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hasnain%20Raza&fontSize=70&fontAlignY=35&desc=Data%20Scientist&descAlignY=50&descAlign=68" width="100%"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnainrzza/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge)](https://hasnainraza.dev)
@@ -39,7 +40,9 @@
 ##
 <br>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=AI+is+an+excellent+slave,+but+a+terrible+master!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&pause=1000&color=2E8B57&center=true&width=635&lines=Taking+action+through+data-driven+intelligence" />
+  </a>
 </div>
 
 ##
